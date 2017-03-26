@@ -94,6 +94,7 @@ int diffLevelInt;
     Updates the external infrared sensor values.
     Parameters: n/a
     Return: n/a
+    Original Code by Dr. Michael McGuire 2017.
 
 */
 void monitorLightExternal(){
@@ -143,6 +144,7 @@ void monitorLightExternal(){
     Updates the internal infrared sensor values.
     Parameters: n/a
     Return: n/a
+    Original Code by Dr. Michael McGuire 2017.
 
 */
 void monitorLightInternal(){
